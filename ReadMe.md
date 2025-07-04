@@ -63,11 +63,11 @@ Mobile Sales Analysis
 
 ### Month-to-Date Report
 
-![MTD](./Mobile_Sales_Dashboard_Snapshots/MTD%20report.jpg)
+![MTD](./Mobile_Sales_Dashboard_Snapshots/MTD report.jpg)
 
 ### Year-over-Year Comparison
 
-![Same Period](./Mobile_Sales_Dashboard_Snapshots/Same%20period%20last%20year%20report.jpg)
+![Same Period](./Mobile_Sales_Dashboard_Snapshots/Same period last year report.jpg)
 
 ---
 
