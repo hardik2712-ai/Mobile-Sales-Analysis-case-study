@@ -55,19 +55,10 @@ Mobile Sales Analysis
 
 ---
 
-## 🞨 Snapshots
 
 ### Main Dashboard
 
 ![Dashboard](./Mobile_Sales_Dashboard_Snapshots/Dashboard.jpg)
-
-### Month-to-Date Report
-
-![MTD](./Mobile_Sales_Dashboard_Snapshots/MTD report.jpg)
-
-### Year-over-Year Comparison
-
-![Same Period](./Mobile_Sales_Dashboard_Snapshots/Same period last year report.jpg)
 
 ---
 
@@ -85,7 +76,7 @@ Mobile Sales Analysis
 
 1. Clone/download the repository.
 2. Open the `MS_Dashboard.pbix` file in Power BI Desktop.
-3. Connect the dashboard to `Data.xlsx` if needed.
+3. Connect the dashboard to `Mobile Sales Data.xlsx` if needed.
 4. Explore the dashboard views: Dashboard, MTD, YoY Comparison.
 
 ---
