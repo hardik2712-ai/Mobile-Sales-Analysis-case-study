@@ -99,7 +99,7 @@ Mobile Sales Analysis
 
 ## 📉 Live Dashboard Link
 
-Access the live Power BI dashboard here: [View Dashboard](https://app.powerbi.com/view?r=YOUR_LINK_HERE)
+Access the live Power BI dashboard here: [View Dashboard]([https://app.powerbi.com/view?r=YOUR_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiMmIyNmRkNGMtZTY0YS00NjFhLWJkMTktNzU2Yzc1MGFlOTAzIiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9))
 
 
 ## 🙏 Acknowledgements
